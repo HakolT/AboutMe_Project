@@ -1,0 +1,8 @@
+
+
+body {
+    background-image: linear-gradient(to bottom, hsl(0, 100%, 50%), yellow );
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  
